@@ -1,5 +1,14 @@
+@import "./components/header";
+@import "./components/footer";
+
 /* comment */
 
 body {
   margin: 0;
+}
+
+.container {
+  max-width: 1180px;
+  padding: 10px;
+  margin: 0 auto;
 }
